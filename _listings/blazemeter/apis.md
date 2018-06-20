@@ -7,8 +7,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1297-blaze
 x-kinRank: "8"
 x-alexaRank: "69236"
 tags: BlazeMeter
-created: "2018-05-25"
-modified: "2018-05-25"
+created: "2018-06-19"
+modified: "2018-06-19"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/blazemeter/master/_listings/blazemeter/apis.md
 specificationVersion: "0.14"
 apis:
@@ -176,6 +176,8 @@ x-common:
   url: https://crunchbase.com/organization/blazemeter
 - type: x-crunchbase
   url: http://www.crunchbase.com/company/blazemeter
+- type: x-documentation
+  url: https://guide.blazemeter.com/hc/en-us/articles/206732689-BlazeMeter-REST-APIs-BlazeMeter-REST-APIs
 - type: x-email
   url: marketing@blazemeter.com
 - type: x-email
